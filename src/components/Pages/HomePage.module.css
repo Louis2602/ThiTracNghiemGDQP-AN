@@ -1,0 +1,13 @@
+.container {
+    text-align: center;
+}
+.heading {
+    margin-top: 4rem;
+    font-size: 2rem;
+}
+
+.photo {
+    width: 50%;
+    display: block;
+    margin: 40px auto;
+}
